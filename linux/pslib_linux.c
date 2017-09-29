@@ -14,7 +14,7 @@
 #include <utmp.h>
 
 #include "pslib.h"
-#include "common.h"
+#include "utils/common.h"
 
 void __gcov_flush(void);
 
